@@ -1,0 +1,124 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #080710;
+}
+form{
+    position: relative;
+    height: 520px;
+    width: 400px;
+    background-color: rgba(255,255,255,0.13);
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+    border:2px solid rgba(255,255,255,0.1);
+    box-shadow: 0px 0px 40px rgba(8,7,16,0.6);
+    padding: 50px 35px;
+    font-family:  'Poppins',sans-serif;
+    color: #ffffff;
+    letter-spacing: 0.5px;
+    border: none;
+    outline: none;
+    margin-left: 35%;
+    margin-top: 7%;
+    z-index: 1;
+}
+form h3{
+    text-align: center;
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 42px; 
+}
+label{
+    display: block;
+    font-size: 16px;
+    font-weight: 500;
+    margin-top: 30px;
+    font-family:  'Poppins',sans-serif;
+}
+input{
+    display: block;
+    height: 50px;
+    width: 100%;
+    background-color: rgba(255,255,255,0.07);
+    font-size: 14px;
+    margin-top: 8px;
+    padding: 0px 10px 0px 10px;
+    border-radius: 10px;
+    border: none;
+}
+input::placeholder{
+    color: #e5e5e5;
+}
+.btn{
+    margin-top: 50px;
+}
+a{
+    text-align: center;
+    text-decoration: none;
+    height: 50px;
+    width: 100%;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #ffffff;
+    color: #080710;
+    padding: 15px 135px 15px 135px;
+    border-radius: 5px;
+    border: none;
+}
+/* a{
+    margin-top: 50px;
+    height: 50px;
+    width: 100%;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #ffffff;
+    color: #080710;
+    padding: 15px 0px 15px 0px;
+    border-radius: 5px;
+    border: none;
+} */
+.social{
+    margin-top: 30px;
+    display: flex;
+}
+.social div{
+    width: 150px;
+    padding: 5px 10px 10px 10px;
+    border-radius: 3px;
+    text-align: center;
+    background-color: rgba(255,255,255,0.27);
+    color: #eaf0fb;
+}
+.social div:hover{
+    background-color: rgba(255,255,255,0.47);
+}
+.social .fb{
+    margin-left: 25px;
+}
+.social i{
+    margin-right: 4px;
+}
+.round:first-child{
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    border-radius: 100px;
+    background: linear-gradient(#1845ad, #23a2f6);
+    margin-bottom: 50px;
+    margin-left: 450px;
+    margin-top: 20px;
+    top:0;
+}
+.round:last-child{
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    border-radius: 100px;
+    background: linear-gradient(to right, #ff512f, #f09819);
+    bottom: 0;
+    margin-left: 800px;
+    margin-bottom: 20px;
+} 
