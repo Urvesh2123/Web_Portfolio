@@ -1,0 +1,1638 @@
+/* -----HOME------ */
+.nav-item:nth-child(1):hover .home{
+    height: 280px;
+    width: 170px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;
+}
+.home {
+    display: none;
+}
+.classic:hover .classic-1{
+    height: 200px;
+    width: 170px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 150px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;
+} 
+.classic-1{
+    display: none;
+}
+.corporate:hover .corporate-1{
+    height: 450px;
+    width: 200px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 150px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;
+}
+.corporate-1{
+    display: none;
+}
+.portfolio:hover .portfolio-1{
+    height: 200px;
+    width: 200px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 150px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;
+}
+.portfolio-1{
+    display: none;
+}
+.blog:hover .blog-1{
+    height: 200px;
+    width: 200px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 150px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;
+}
+.blog-1{
+    display: none;
+}
+.one-page:hover .one-page-1{
+    height: 40px;
+    width: 200px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 150px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;
+}
+.one-page-1{
+    display: none;
+}
+
+.nav-item:nth-child(1) p:hover{
+    background-color: rgb(248, 244, 244);
+}
+
+/* ---ELEMENT---- */
+.nav-item:nth-child(2):hover .elements{
+    height: 550px;
+    width: 820px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;
+}
+.elements{
+    display: none;
+}
+
+/* ---FEATURES--- */
+.nav-item:nth-child(3):hover .features-1{
+    height: 450px;
+    width: 230px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;
+}
+.features-1{
+    display: none;
+}
+/* ---part-2 Feature------------ */
+.headers:hover .header-1{
+    height: 750px;
+    width: 230px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 210px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;
+}
+.header-1{
+    display: none;
+}
+/* ----------- */
+.navigations:hover .navigation-1{
+    height: 600px;
+    width: 230px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 210px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;
+} 
+.navigation-1{
+    display: none;
+}
+/* --------- */
+.p-headers:hover .pageheader-1{
+    height: 300px;
+    width: 230px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 210px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;
+}
+.pageheader-1{
+    display: none;
+}
+/* --------- */
+.footer:hover .footer-1{
+    height: 350px;
+    width: 230px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 210px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;
+}
+.footer-1{
+    display: none;
+}
+/* ---------- */
+.admin-ex:hover .admin-1{
+    height: 380px;
+    width: 230px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 210px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;
+}
+.admin-1{
+    display: none;
+}
+/* ----------- */
+.sliders:hover .sliders-1{
+    height: 100px;
+    width: 230px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 210px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;
+}
+.sliders-1{
+    display: none;
+}
+/* ------------ */
+.layout:hover .layout-1{
+    height: 150px;
+    width: 230px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 210px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;
+}
+.layout-1{
+    display: none;
+}
+/* ----------- */
+.extra:hover .extra-1{
+    height: 300px;
+    width: 230px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 210px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;
+}
+.extra-1{
+    display: none;
+}
+/* -----Part-3 Feature------- */
+.classic-1:hover .classic-2{
+    height: 150px;
+    width: 260px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 210px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;
+}
+.classic-2{
+    display: none;
+}
+/* ----------- */
+.flat-1:hover .flat-2{
+    height: 220px;
+    width: 260px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 210px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;
+}
+.flat-2{
+    display: none;
+}
+/* ----------- */
+.center-1:hover .center-2{
+    height: 200px;
+    width: 260px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 210px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;
+}
+.center-2{
+    display: none;
+}
+/* ---------- */
+.floating-1:hover .floating-2{
+    height: 100px;
+    width: 260px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 210px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;
+}
+.floating-2{
+    display: none;
+}
+/* ----------- */
+.sticky-1:hover .sticky-2{
+    height: 250px;
+    width: 260px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 210px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;
+}
+.sticky-2{
+    display: none;
+}
+/* ------------ */
+.tranparent-1:hover .transparent-2{
+    height: 450px;
+    width: 270px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 210px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;
+}
+.transparent-2{
+    display: none;
+}
+/* ----------- */
+.fullwidth-1:hover .fullwidth-2{
+    height: 370px;
+    width: 270px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 210px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;
+}
+.fullwidth-2{
+    display: none;
+}
+/* --------- */
+.navbar-1:hover .navbar-2{
+    height: 250px;
+    width: 270px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 210px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;
+}
+.navbar-2{
+    display: none;
+}
+/* --------- */
+.slideheader-1:hover .slideheader-2{
+    height: 200px;
+    width: 270px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 210px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;
+}
+.slideheader-2{
+    display: none;
+}
+/* ---------- */
+.searchstyle-1:hover .searchstyle-2{
+    height: 100px;
+    width: 270px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 210px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;
+}
+.searchstyle-2{
+    display: none;
+}
+/* --------- */
+.extra-1:hover .extra-2{
+    height: 50px;
+    width: 270px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 210px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;
+}
+.extra-2{
+    display: none;
+}
+.slideheader-1:hover .slideheader-2{
+    height: 250px;
+    width: 250px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;
+}
+.slideheader-2{
+    display: none;
+}
+/* ----Part-4 Feature---- */
+.sheader-1:hover .sh-1{
+    height: 250px;
+    width: 200px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;
+}
+.sh-1{
+    display: none;
+}
+/* ----------- */
+.sheader-2:hover .sh-2{
+    height: 250px;
+    width: 200px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;
+}
+.sh-2{
+    display: none;
+}
+/* ----------- */
+.sheader-3:hover .sh-3{
+    height: 220px;
+    width: 200px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;
+}
+.sh-3{
+    display: none;
+}
+/* -------------- */
+.pills:hover .pills-1{
+    height: 270px;
+    width: 200px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 210px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;
+}
+.pills-1{
+    display: none;
+}
+/* ----------------------- */
+.strips:hover .strips-1{
+    height: 150px;
+    width: 210px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 210px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;
+}
+.strips-1{
+    display: none;
+}
+/* --------------------- */
+.hovereffect:hover .hovereffect-1{
+    height: 370px;
+    width: 210px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 210px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;
+}
+.hovereffect-1{
+    display: none;
+}
+/* ----------------------- */
+.verticle:hover .verticle-1{
+    height: 200px;
+    width: 210px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 210px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;
+}
+.verticle-1{
+    display: none;
+}
+/* -------------------- */
+.humbuger:hover .humbuger-1{
+    height: 100px;
+    width: 210px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 210px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;   
+}
+.humbuger-1{
+    display: none;
+}
+/* ------------------ */
+.dropdownstyle:hover .dropdownstyle-1{
+    height: 400px;
+    width: 210px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 210px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block; 
+}
+.dropdownstyle-1{
+    display: none;
+}
+/* ------------------- */
+.dropdowneffect:hover .dropdowneffect-1{
+    height: 280px;
+    width: 210px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 210px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block; 
+}
+.dropdowneffect-1{
+    display: none;
+}
+/* -------------------- */
+.fontstyle:hover .fontstyle-1{
+    height: 200px;
+    width: 210px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 210px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block; 
+}
+.fontstyle-1{
+    display: none;
+}
+/* ----------------- */
+.icon:hover .icon-1{
+    height: 100px;
+    width: 210px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 210px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block; 
+}
+.icon-1{
+    display: none;
+}
+/* ----P-Headers----------- */
+.classic-1:hover .classic-2{
+    height: 150px;
+    width: 210px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 210px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block; 
+}
+.classic-2{
+    display: none;
+}
+/* -------------------- */
+.modern-1:hover .modern-2{
+    height: 150px;
+    width: 210px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 210px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block; 
+}
+.modern-2{
+    display: none;
+}
+/* ---------------- */
+.color-1:hover .color-2{
+    height: 260px;
+    width: 210px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 210px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block; 
+}
+.color-2{
+    display: none;
+}
+/* --------------- */
+.titleposition-1:hover .titleposition-2{
+    height: 150px;
+    width: 200px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 210px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block; 
+}
+.titleposition-2{
+    display: none;
+}
+/* -----part-4----------- */
+/* .titleposition-2:hover .t-position-1{
+    height: 150px;
+    width: 200px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block; 
+}
+.t-position-1{
+    display: none;
+} */
+/* ------------- */
+.t-position-1:hover .tp-1{
+    height: 150px;
+    width: 200px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block; 
+}
+.tp-1{
+    display: none;
+}
+/* ---------------- */
+.t-position-2:hover .tp-2{
+    height: 150px;
+    width: 200px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block; 
+}
+.tp-2{
+    display: none;
+}
+/* --------------- */
+.t-position-3:hover .tp-3{
+    height: 150px;
+    width: 200px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block; 
+}
+.tp-3{
+    display: none;
+}
+/* ----part - 3---------- */
+.background-1:hover .background-2{
+    height: 270px;
+    width: 200px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 210px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block; 
+}
+.background-2{
+    display: none;
+}
+/* ----------------- */
+.extra-1:hover .extra-2{
+    height: 250px;
+    width: 200px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 210px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block; 
+}
+.extra-2{
+    display: none;
+}
+/* ----------------- */
+.extra-3:hover .extra-4{
+    height: 100px;
+    width: 200px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block; 
+}
+.extra-4{
+    display: none;
+}
+/* ------footer -3------------ */
+.classic-1:hover .fter-1{
+    height: 300px;
+    width: 200px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 210px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block; 
+}
+.fter-1{
+    display: none;
+}
+/* -------------- */
+.modern-1:hover .modern-2{
+    height: 260px;
+    width: 200px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 210px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block; 
+}
+.modern-2{
+    display: none;
+}
+/* ------------ */
+.bround-1:hover .bground-1{
+    height: 150px;
+    width: 200px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block; 
+}
+.bground-1{
+    display: none;
+}
+/* -------------- */
+.call:hover .call-1{
+    height: 100px;
+    width: 200px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block; 
+}
+.call-1{
+    display: none;
+}
+/* ------Pages---- */
+.nav-item:nth-child(4):hover .pages{
+    height: 450px;
+    width: 200px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;    
+}
+.pages{
+    display: none;
+}
+/* -------------- */
+.cus:hover .cus-1{
+    height: 150px;
+    width: 210px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 180px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;   
+}
+.cus-1{
+    display: none;
+}
+/* ------------- */
+.aus:hover .aus-1{
+    height: 150px;
+    width: 210px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 180px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;   
+}
+.aus-1{
+    display: none;
+}
+/* --------------- */
+.layouts:hover .layouts-1{
+    height: 270px;
+    width: 210px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 180px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;   
+}
+.layouts-1{
+    display: none;
+}
+/* ------------- */
+.extra-1:hover .extra-2{
+    height: 270px;
+    width: 210px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 180px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;   
+}
+.extra-2{
+    display: none;
+}
+/* ------------- */
+.team:hover .team-1{
+    height: 100px;
+    width: 210px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 180px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;   
+}
+.team-1{
+    display: none;
+}
+/* ----------------- */
+.services:hover .services-1{
+    height: 150px;
+    width: 210px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 180px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;  
+}
+.services-1{
+    display: none;
+}
+/* ------Portfolio------- */
+.nav-item:nth-child(5):hover .portfolio{
+    height: 270px;
+    width: 210px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;  
+}
+.portfolio{
+    display: none;
+}
+/* ------------ */
+.sproject:hover .sproject-1{
+    height: 550px;
+    width: 210px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 190px;
+    padding-top: 20px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;  
+}
+.sproject-1{
+    display: none;
+}
+/* ------------- */
+.glayouts:hover .glayouts-1{
+    height: 450px;
+    width: 210px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 190px;
+    padding-top: 20px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;  
+} 
+.glayouts-1{
+    display: none;
+}
+/* ----------- */
+.mlayouts:hover .mlayouts-1{
+    height: 300px;
+    width: 210px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 190px;
+    padding-top: 20px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;  
+} 
+.mlayouts-1{
+    display: none;
+}
+/* ----------- */
+.slayouts:hover .slayouts-1{
+    height: 200px;
+    width: 210px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 190px;
+    padding-top: 20px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block; 
+}
+.slayouts-1{
+    display: none;
+}
+/* --------------- */
+.ajax:hover .ajax-1{
+    height: 100px;
+    width: 210px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 190px;
+    padding-top: 20px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block; 
+}
+.ajax-1{
+    display: none;
+}
+/* ------------- */
+.extra:hover .extra-1{
+    height: 300px;
+    width: 210px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 190px;
+    padding-top: 20px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block; 
+}
+.extra-1{
+    display: none;
+}
+/* -------------- */
+.nav-item:nth-child(6):hover .blog{
+    height: 300px;
+    width: 210px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block; 
+}
+.blog{
+    display: none;
+}
+/* ----------- */
+.limage:hover .limage-1{
+    height: 200px;
+    width: 210px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 190px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;    
+}
+.limage-1{
+    display: none;
+}
+/* ------------- */
+.mi-1:hover .mige-2{
+    height: 100px;
+    width: 210px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 190px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;  
+}
+.mige-2{
+    display: none;
+}
+/* ----------- */
+.gid:hover .grid-2{
+    height: 350px;
+    width: 210px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 190px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;  
+}
+.grid-2{
+    display: none;
+}
+/* --------------- */
+.msonry:hover .msonry-1{
+    height: 300px;
+    width: 210px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 190px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;  
+}
+.msonry-1{
+    display: none;
+}
+/* ------------- */
+.timeline:hover .timeline-1{
+    height: 150px;
+    width: 210px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 190px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;  
+}
+.timeline-1{
+    display: none;
+}
+/* -------------- */
+.spost:hover .spost-1{
+    height: 450px;
+    width: 210px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 190px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;  
+}
+.spost-1{
+    display: none;
+}
+/* -------------- */
+.cline:hover .cline-1{
+    height: 150px;
+    width: 210px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 190px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;  
+}
+.cline-1{
+    display: none;
+}
+/* -----Shop------- */
+.nav-item:nth-child(7):hover .shop{
+    height: 400px;
+    width: 210px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;  
+}
+.shop{
+    display: none;
+}
+/* ---------- */
+.sproduct:hover .sproduct-1{
+    height: 200px;
+    width: 210px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 190px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;  
+}
+.sproduct-1{
+    display: none;
+}
+/* -------------- */
+.colum-3:hover .colm{
+    height: 150px;
+    width: 210px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 190px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;  
+}
+.colm{
+    display: none;
+}
+/* ---------- */
+.colum-2:hover .col{
+    height: 200px;
+    width: 210px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 190px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;  
+}
+.col{
+    display: none;
+}
+/* --------------- */
+.colum-1:hover .co{
+    height: 200px;
+    width: 210px;
+    background-color: white;
+    color: rgb(136, 135, 135);
+    font-weight:normal ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 190px;
+    border-radius: 5px;
+    border-top: 3px solid #0D6EFD;
+    position: absolute;
+    z-index: 1;
+    display: block;  
+}
+.co{
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
